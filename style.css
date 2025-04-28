@@ -96,3 +96,29 @@
     padding: 10px;
     text-align: center;
 }
+.facebookpopupcontent{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.close{
+    position: absolute;
+    top: 12px;
+    right: 30px;
+    border: none;
+    background: #ffffff;
+    font-size: 40px;
+}
+.facebookpopupcontent h3{
+    font-size: 22px;
+    padding: 30px 0px;
+    font-weight: 700;
+
+}
+.imgblur{
+    filter: blur(6px);
+}
