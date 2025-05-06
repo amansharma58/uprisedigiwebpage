@@ -41,11 +41,11 @@
 	width: 150px;
 }
 .top-message{
-    background-color: #000000b0;
+    background-color: #000000e6;
     color: white;
     position: relative;
-    left: 25%;
-    width: 50%;
+    left: -22%;
+    width: 150%;
     padding: 10px;
     text-align: center;
 }
@@ -74,4 +74,9 @@
 }
 .imgblur{
     filter: blur(6px);
+}
+.line-end-message{
+    position: absolute;
+    bottom: 55px;
+    left: 0%;
 }
