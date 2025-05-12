@@ -87,6 +87,7 @@
 .fullscreen-container{
     background-image: url('image.png');
     background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 .top-message{
     background-color: #000000b0;
